@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "dinutrient",
+    "slug": "dinutrient",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/dinutrient.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "scheme": "dinutrient",
+    "splash": {
+      "image": "./assets/dinutrient.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#d4fbdaff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/dinutrient.png",
+        "backgroundColor": "#d4fbdaff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/dinutrient.png"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "2a3db8dd-bc57-47a4-8b76-c9046cec35f4"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/2a3db8dd-bc57-47a4-8b76-c9046cec35f4"
+    },
+    "plugins": [
+      "expo-asset",
+      "expo-font"
+    ]
+  }
+}
