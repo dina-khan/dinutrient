@@ -9,8 +9,8 @@ A React Native (Expo) nutrition app that turns a **food name or photo** into det
 
 ## 🔗 Links
 
-- 📺 **Demo Video:** `https://youtu.be/Ncuim6wPx5k`
-- 🌐 **Live Web Demo:** `https://dinutrient.netlify.app/`
+- 📺 **Demo Video:** https://youtu.be/Ncuim6wPx5k
+- 🌐 **Live Web Demo:** https://dinutrient.netlify.app/
 
 ---
 
